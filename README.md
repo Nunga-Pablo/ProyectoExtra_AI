@@ -35,13 +35,30 @@ Se busca poner en práctica todo lo aprendido en el módulo "Introducción a la 
 - Repositorio en GitHub.
 - URL pública en Github Pages.
 
-## Procedimiento general
+## Forma de trabajar
 
-1. 
+Pasos básicos para relizar este proyecto:
+
+1. Se realizó el repositorio y se agregó a los integrantes.
+2. Se creo el archivo index.html y los archivos .html adicionales necesarios.
+3. Se fueron haciendo las modificaciones en los diferentes archivos, se subia un cambio, era revisado por el resto del equipo y se aprovaba.
+4. Una vez aprovado, se realizaba el merge.
+
+Se realizarón distintos cambios.
 
 Para visualizar las imágenes visita la carpeta [Procedimiento](https://drive.google.com/drive/folders/1Cjopn4eO1heUG7vCDyOsl3cpXsG58dnv?usp=sharing) en Reto módulo 1.
 
-Estos son los primeros pasos básicos para relizar este proyecto. Posteriormente se siguen realizando cambios hasta llegar al resultado final.
+## Oganización
+
+Pablo Nungaray creo el repositorio y agrego a los demás del equipo.
+
+Cada uno fue responsable de una área:
+
+Ale Coss - Inteligencia Artificial (IA) (Inicio) y README
+
+Pablo Nungaray - Herramientas de IA
+
+Abraham Medina - Clasificación de IA
 
 ## Resultados
 
@@ -49,32 +66,29 @@ Estos son los primeros pasos básicos para relizar este proyecto. Posteriormente
 
 Este es el inicio y la parte final de mi código con la estructura HTML de mi proyecto número 8.
 
-![Código Inicio]()
-![Código Historia de la IA]()
-![Código Herramientas de IA]()
-![Código Clasificación de IA]()
-
-Para consultar el código completo, visita la carpeta [Código]() en Proyecto 8.
+![Código Inicio](https://i.imgur.com/m3OBG7G.jpeg)
+![Código Herramientas de IA](https://i.imgur.com/wqcJqzc.jpeg)
+![Código Clasificación de IA](https://i.imgur.com/oyUQ0Ox.jpeg)
+Para consultar el código completo, visita la carpeta [Código](https://drive.google.com/drive/folders/1VjsJ0J3fyKV_ZsLoKuX8-VfUOEP6SuCi?usp=sharing) en Proyecto 8.
 
 ### Página
 
 Este es la página web de nuestro reto de fin de módulo.
 
-![Inicio]()
-![Historia de la IA]()
-![Herramientas de IA]()
-![Clasificación de IA]()
+![Inicio](https://i.imgur.com/qXoTRQs.jpeg)
+![Herramientas de IA](https://i.imgur.com/yrrjknU.jpeg)
+![Clasificación de IA](https://i.imgur.com/xcVPRTU.jpeg)
 
-Para consultar la página web de nuestro reto, visita la página [Inteligencia Artificial (IA)]().
+Para consultar la página web de nuestro reto, visita la página [Inteligencia Artificial (IA)](https://nunga-pablo.github.io/ProyectoExtra_AI/).
 
 ## Entregables
 
 - Repositorio: https://github.com/Nunga-Pablo/ProyectoExtra_AI.git.
-- Página web: .
+- Página web: https://nunga-pablo.github.io/ProyectoExtra_AI/.
 
 ## Conclusiones
 
-Con este proyecto puse en prática todo lo aprendido, comprendí de una mejor manera todo el proceso y a pesar de que en algún momento tuve errores, me siento feliz de poder solucionarlos yo misma y finalizar de una manera satisfactoria para este módulo "Introducción a la programación".
+Con este proyecto entendemos de una mejor manera como se trabaja en equipo y la importancia de la comunicación para ponernos de acuerdo. Cuando se modificaron diferentes archivos al mismo tiempo y se necesitaba hacer merge, el avisarnos fue clave para solucionarlo y poder hacerlo. Fue un buen reto, por que la dinámica cambia un poco y es más interesante al trabajar con un grupo. 
 
 # Sobre nosotros
 
